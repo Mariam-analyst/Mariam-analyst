@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to Mariam's Github Profile!
 
-<!--
-**Mariam-analyst/Mariam-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst with a strong foundation in Excel, Power Bi, SQL, Python. I love transforming raw data into meaningful insights and actionable recommendations. With a keen eye for detail and a knack for problem-solving, I strive to make data-driven decisions that positively impact businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Excel:** Proficient in data cleaning, analysis, and visualization using advanced Excel functions and formulas.
+- **Power Bi:** Experienced in creating interactive and visually appealing dashboards for effective data communication.
+- **SQL:** Skilled in querying and manipulating data from relational databases to extract valuable information.
+- **Python:** Competent in utilizing Python for data analysis, scripting, and automation.
+
+## Contact
+
+- [LinkedIn](https:www.linkedin.com/in/mariam-analyst)
+- **Email:** mayrhyam@gmail.com
+- **+2348167772060**
